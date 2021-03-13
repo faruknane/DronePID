@@ -5,7 +5,7 @@
 - https://www.youtube.com/watch?v=kZF2pi_VLnE (2018 summer)
 
 # DronePID
-Implementation PID feedback mechanism for drones in arduino
+Implementation of PID feedback mechanism for drones in arduino
 
 You can download the necessary libraries from Arduino IDE.
 
