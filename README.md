@@ -1,3 +1,9 @@
+# Videos
+- https://www.youtube.com/watch?v=uBebeBA5_B0 (2020 summer)
+- https://www.youtube.com/watch?v=rsw5USoCVB8 (2020 summer)
+- https://www.youtube.com/watch?v=nqLwOB4ODE8 (2018 summer)
+- https://www.youtube.com/watch?v=kZF2pi_VLnE (2018 summer)
+
 # DronePID
 Implementation PID feedback mechanism for drones in arduino
 
@@ -14,3 +20,4 @@ Brushless Motor pins:
 ![image](https://user-images.githubusercontent.com/37745467/111026978-671fc800-83fe-11eb-9af0-401f9e7cf55e.png)
  
 You should also adjust RF communication and pid coefficients for your system.
+
