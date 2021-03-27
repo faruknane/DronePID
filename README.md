@@ -22,7 +22,7 @@ You can download the necessary libraries from Arduino IDE.
 
 For Drone Flight Controller: https://github.com/faruknane/DronePID/blob/main/DroneController/DroneController.ino
 
-For remote control: https://github.com/faruknane/DronePID/blob/main/RC/sender/sender.ino
+For Remote Control: https://github.com/faruknane/DronePID/blob/main/RC/sender/sender.ino
 
 Brushless Motor pins: 
 
