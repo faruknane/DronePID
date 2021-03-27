@@ -30,4 +30,4 @@ Brushless Motor pins:
  
 You should also adjust RF communication and pid coefficients for your system.
 
-Thanks to Mustafa Malik Er (https://tr.linkedin.com/in/mustafa-malik-er-836a04147/en-us) for helping me in drone balance/flight tests!
+Thanks to [Mustafa Malik Er](https://tr.linkedin.com/in/mustafa-malik-er-836a04147/en-us) for helping me in drone balance/flight tests!
