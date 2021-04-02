@@ -24,7 +24,7 @@ Thanks to [Mustafa Malik Er](https://tr.linkedin.com/in/mustafa-malik-er-836a041
 - https://www.youtube.com/watch?v=kZF2pi_VLnE (2018 summer)
 
 # Photos 
-- ![image](https://user-images.githubusercontent.com/37745467/111027896-2460ee80-8404-11eb-8f2b-0830aeb3e18d.png)
-- ![image](https://user-images.githubusercontent.com/37745467/111027932-5b370480-8404-11eb-9c9b-525724cb13c0.png)
+- <img src="https://user-images.githubusercontent.com/37745467/111027896-2460ee80-8404-11eb-8f2b-0830aeb3e18d.png" width="512">
+- <img src="https://user-images.githubusercontent.com/37745467/111027932-5b370480-8404-11eb-9c9b-525724cb13c0.png" width="512">
 
 
